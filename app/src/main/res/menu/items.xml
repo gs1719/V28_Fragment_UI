@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group>
+    <item android:title="Search"
+      android:icon="@drawable/search_svgrepo_com"
+        android:id="@+id/item1">
+
+  </item>
+
+    <item android:title="Categories"
+        android:icon="@drawable/list_svgrepo_com_1_"
+        android:id="@+id/item2">
+    </item>
+
+    <item android:title="Home"
+        android:icon="@drawable/home_svgrepo_com"
+        android:id="@+id/item3">
+
+    </item>
+
+    <item android:title="Account"
+        android:icon="@drawable/account_svgrepo_com"
+        android:id="@+id/item4">
+
+    </item>
+    <item android:title="Cart"
+        android:icon="@drawable/cart_add_buy_svgrepo_com"
+        android:id="@+id/item5">
+
+    </item>
+
+</group>
+</menu>
